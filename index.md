@@ -11,12 +11,12 @@
 
 | Tool Image   |  Tool Name 	  | Function  |　Reference/Year  | 
 |---|---|---|---|
-|  | DNASmartTagger |	DNA配列入力により、INSDCデータベース構造化タグ予測を行う。データバンク登録時のメタデータ自動生成と、既存未登録属性のインピューテーションを目標に、開発中。発表済タグは、PCRプライマと生態属性の高度。 | 2017 |
-|  |  CrowdR&D |	クラウドソーシングを利用する国内の研究開発タスクのカタログデータベース(2016.6公開)。個人情報保護法改正2017.5に伴い、ユーザ評価機能を除いて再公開するために改修中。	| 2016 | 
-|  |DDBJ Read Annotation Pipeline |DDBJ Read Annotation Pipelineは、高速DNAシークエンサ配列解析のウェブサービス。断片シーケンスからのゲノム再構築と、参照配列アライメントの基礎処理をGUI環境で提供する。遺伝研スパコン上に実装されている。|	2016,2013,2010 |
-| | DNAPod |	DNA polymorphism annotation database (DNApod)は系統間DNA多型ワークフローと統合データベース。DBには、植物のイネ・トウモロコシ・ソルガムで各679,404,66系統分の多型情報が掲載されている。SRA再解析により構築した。	|2015 |
-| |	H2DB | 	H²DB は遺伝率と多型のキュレーションデータベース。狭義と広義の遺伝率をPubmed abstractから手作業で抽出。更に、PATOオントロジ(Phenotypic Quality Ontology)を割当てて分類を可能にした。ヒト以外の生物も掲載されている。 |	2013 | 
-|| 	GTASSIST |  	GTAssistは、TaqMan SNP遺伝子型アッセイの出力データのキュレーション支援ツール。カーネル法活用のMarker Ranking Measure等の遺伝子型定量評価用の2尺度を提案した。|	2008 |
+| ![test](./DNASmartTagger.png "DNASmartTagger") | DNASmartTagger |	DNA配列入力により、INSDCデータベース構造化タグ予測を行う。データバンク登録時のメタデータ自動生成と、既存未登録属性のインピューテーションを目標に、開発中。発表済タグは、PCRプライマと生態属性の高度。 | 2017 |
+|  ![test](./crowdrnd.png "CrowdR&D")|  CrowdR&D |	クラウドソーシングを利用する国内の研究開発タスクのカタログデータベース(2016.6公開)。個人情報保護法改正2017.5に伴い、ユーザ評価機能を除いて再公開するために改修中。	| 2016 | 
+|  ![test](./pipeline.png "Pipeline")  |DDBJ Read Annotation Pipeline |DDBJ Read Annotation Pipelineは、高速DNAシークエンサ配列解析のウェブサービス。断片シーケンスからのゲノム再構築と、参照配列アライメントの基礎処理をGUI環境で提供する。遺伝研スパコン上に実装されている。|	2016,2013,2010 |
+| ![test](./DNApod_outline.jpg "DNApod")  | DNAPod |	DNA polymorphism annotation database (DNApod)は系統間DNA多型ワークフローと統合データベース。DBには、植物のイネ・トウモロコシ・ソルガムで各679,404,66系統分の多型情報が掲載されている。SRA再解析により構築した。	|2015 |
+| ![test](./h2db.png "h2db") |	H2DB | 	H²DB は遺伝率と多型のキュレーションデータベース。狭義と広義の遺伝率をPubmed abstractから手作業で抽出。更に、PATOオントロジ(Phenotypic Quality Ontology)を割当てて分類を可能にした。ヒト以外の生物も掲載されている。 |	2013 | 
+|![test](./msm_1-5.jpg "gtassist") | 	GTASSIST |  	GTAssistは、TaqMan SNP遺伝子型アッセイの出力データのキュレーション支援ツール。カーネル法活用のMarker Ranking Measure等の遺伝子型定量評価用の2尺度を提案した。|	2008 |
 
 その他、開発に貢献したソフトウェアは、DDBJの塩基配列登録システムNSSS（Kosuge et al., 2014）があります。
 
