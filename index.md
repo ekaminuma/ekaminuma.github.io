@@ -33,35 +33,14 @@
 
 ### 外部資金・特許・MTA  (selected) 
 
-Type 	Title	Year 	Journal papers, etc.
-Patent 	特願2017-032011 : 情報処理装置、情報処理方法及び情報処理プログラム	2017	- 
-Grant 	
-早生カンキツ育種効率化のための選抜育種技術の開発とその利用(NGB2009)
-農林水産省委託プロジェクト研究「多数の遺伝子が関与する形質を改良する新しい育種技術の開発」
-代表者: 野中圭介（清水徳朗、神沼英里)
-2016
-|
-2018	- Minamikawa et al.,Scientific Report 2017
-MTA 	Prof.Roose, University of California Riverside
-柑橘4品種ゲノム配列：Unshiu(Satsuma), Ponkan, KingMandarin, Banpeiyu 	2015 	Affymetrix Axiom chip(56k and 1.3M) will be developed.
-Grant 	
-カンキツの育種選抜に利用可能なゲノムワイドSNPの拡充（NGB1006）
-農林水産省委託プロジェクト研究「多数の遺伝子が関与する形質を改良する新しい育種技術の開発」: 
-研究期間: 2013年7月 - 2016年3月    代表者: 清水徳朗 (神沼英里) 	2016
-|
-2013 	- Shimizu et al.,Acta Horiculturae 2016 
-Grant 	
-新型シーケンサ・アーカイブ配列を用いた植物系統SNP統合と多様性指標解析
-日本学術振興会: 科研費基盤研究(C)
-研究期間: 2012年4月 - 2015年3月    代表者: 神沼英里 	2015
-|
-2012 	- Mochizuki et al.,PLoS ONE 2017 
-Grant 	
-バイオ基幹情報資源の高準化と共用化（担当：DRAとpipeline）
-JST-BIRD: BIRD第２期受託事業
-研究期間: 2010年4月 - 2011年3月    代表者: 菅原秀明　（宮崎智、鈴木智典、川本祥子、大久保公策、五條堀孝、中村保一、神沼英里、權娟大、猿橋智) 	2011
-|
-2010 	- Kaminuma et al., NAR 2010
+|Type |	Title |	Year | 	Journal papers, etc.|
+|---|---|---|---|
+|Patent| 	特願2017-032011 情報処理装置、情報処理方法及び情報処理プログラム	| 2017	| |
+|Grant | 	早生カンキツ育種効率化のための選抜育種技術の開発とその利用(NGB2009) 農林水産省委託プロジェクト研究「多数の遺伝子が関与する形質を改良する新しい育種技術の開発」代表者: 野中圭介（清水徳朗、神沼英里)| 2016 | Minamikawa et al.,Scientific Report 2017 |
+| MTA | Prof.Roose, University of California Riverside 柑橘4品種ゲノム配列：Unshiu(Satsuma), Ponkan, KingMandarin, Banpeiyu |	2015 |Affymetrix Axiom chip(56k and 1.3M) will be developed. |
+|Grant | 	カンキツの育種選抜に利用可能なゲノムワイドSNPの拡充（NGB1006）農林水産省委託プロジェクト研究「多数の遺伝子が関与する形質を改良する新しい育種技術の開発」: 研究期間: 2013年7月 - 2016年3月    代表者: 清水徳朗 (神沼英里) |	2016 | Shimizu et al.,Acta Horiculturae 2016 |
+| Grant | 	新型シーケンサ・アーカイブ配列を用いた植物系統SNP統合と多様性指標解析 日本学術振興会: 科研費基盤研究(C) 研究期間: 2012年4月 - 2015年3月    代表者: 神沼英里 	|2015 | Mochizuki et al.,PLoS ONE 2017 |
+|Grant 	 | バイオ基幹情報資源の高準化と共用化（担当：DRAとpipeline）JST-BIRD: BIRD第２期受託事業 研究期間: 2010年4月 - 2011年3月    代表者: 菅原秀明　（宮崎智、鈴木智典、川本祥子、大久保公策、五條堀孝、中村保一、神沼英里、權娟大、猿橋智) 	|2011| Kaminuma et al., NAR 2010 |
 
 
 その他、
