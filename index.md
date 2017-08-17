@@ -39,23 +39,12 @@ DNAPod	DNA polymorphism annotation database (DNApod)は系統間DNA多型ワー�
 
 ### 　開発教材　
 
-
-Teaching materials	Year 	Programming language
-ハンズオン輪読会[Hands-On Machine Learning with Scikit-Learn and TensorFlow]
-
-2017- 	python, scikit-learn 
-機械学習コンペティション「DNA配列からのクロマチン特徴予測」
-*解析チャレンジ概要
-*NIGスパコンで機械学習モデリング(LDA例)：ハンズオン資料 	2016 	MATLAB, etc. 
-ハンズオン輪読会[Bioinformatics with R Cookbook] 
-
-
-2015-2016 	R 
-一般公開用Scratch2.0プログラミング
-[DNAバーコードの図を作ろう] 
-
-
-2017	Scratch 
+|    | Teaching materials	  | Year 	 |　Programming language  | 
+|---|---|---|---|
+|1  | ハンズオン輪読会[Hands-On Machine Learning with Scikit-Learn and TensorFlow]  | 2017 | python, scikit-learn 　|
+|2  | 機械学習コンペティション「DNA配列からのクロマチン特徴予測」：NIGスパコンでのLDA解析事例 | 2016 | MATLAB　   |
+|3  | ハンズオン輪読会[Bioinformatics with R Cookbook]  | 2015-2016 | R |
+|4  | 一般公開用Scratch2.0プログラミング [DNAバーコードの図を作ろう] | 2017 | Scratch |
 
 
 ### 外部資金・特許・MTA  (selected) 
