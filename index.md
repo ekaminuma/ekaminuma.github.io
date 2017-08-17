@@ -17,6 +17,7 @@
 | ![test](./DNApod_outline.jpg "DNApod")  | DNAPod |	DNA polymorphism annotation database (DNApod)は系統間DNA多型ワークフローと統合データベース。DBには、植物のイネ・トウモロコシ・ソルガムで各679,404,66系統分の多型情報が掲載されている。SRA再解析により構築した。	|2015 |
 | ![test](./h2db.png "h2db") |	H2DB | 	H²DB は遺伝率と多型のキュレーションデータベース。狭義と広義の遺伝率をPubmed abstractから手作業で抽出。更に、PATOオントロジ(Phenotypic Quality Ontology)を割当てて分類を可能にした。ヒト以外の生物も掲載されている。 |	2013 | 
 |![test](./msm_1-5.jpg "gtassist") | 	GTASSIST |  	GTAssistは、TaqMan SNP遺伝子型アッセイの出力データのキュレーション支援ツール。カーネル法活用のMarker Ranking Measure等の遺伝子型定量評価用の2尺度を提案した。|	2008 |
+{:.mbtablestyle}
 
 その他、開発に貢献したソフトウェアは、DDBJの塩基配列登録システムNSSS（Kosuge et al., 2014）があります。
 
